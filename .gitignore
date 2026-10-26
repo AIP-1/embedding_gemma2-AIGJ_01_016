@@ -1,0 +1,12 @@
+media/
+__pycache__/
+models/
+runs/
+data/
+crops/
+*.pt
+*.partruns/
+*.safetensors
+*.pt
+*.part
+mobileclip_blt.ts
